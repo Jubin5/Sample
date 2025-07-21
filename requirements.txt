@@ -1,4 +1,5 @@
 streamlit
-plotly
 pandas
 textblob
+plotly>=5.15.0
+
