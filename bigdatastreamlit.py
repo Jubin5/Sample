@@ -13,7 +13,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load the sentiment dataframe
-df = pd.read_csv("/content/sentiment_analysis_results.csv")  # Or use df_final_pd if directly in script
+df = "sentiment_analysis_results.csv"  # Or use df_final_pd if directly in script
 
 st.title("🗞️ News Sentiment Dashboard")
 
